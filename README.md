@@ -69,7 +69,7 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Uploading WhatsApp Image 2024-12-04 at 13.21.47_86b576be.jpg…]()
+![WhatsApp Image 2024-12-04 at 13 21 48_d5cf43fb](https://github.com/user-attachments/assets/15b5f761-680f-4125-b2a4-386d50d385c0)
 
 **RESULTS**
 
